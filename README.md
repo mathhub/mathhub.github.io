@@ -1,5 +1,2 @@
 ##MATHUB
-An un-official website for the KNUST Mathematics department.
-
-###Contribution
-This site is being run by student's code contribution.
+Here lies the website of the [Mathub repo](https://github.com/mathhub/mathub).
